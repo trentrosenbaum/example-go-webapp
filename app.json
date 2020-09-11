@@ -1,0 +1,12 @@
+{
+  "name": "An example go web app",
+  "description": "An example go web app using the go gin",
+  "keywords": [
+    "gin",
+    "go",
+    "webapp",
+    "example"
+  ],
+  "website": "http://github.com/trentrosenbaum/example-go-webapp",
+  "repository": "http://github.com/trentrosenbaum/example-go-webapp"
+}
