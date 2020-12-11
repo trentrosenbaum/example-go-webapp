@@ -1,8 +1,4 @@
 # example-go-webapp
-An example go web app using the go gin
-
-
-# example-go-webapp
 
 A barebones Go app, which can easily be deployed to Heroku.
 
